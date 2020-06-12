@@ -1,0 +1,13 @@
+{
+    "name": "ashutosh/portalbase",
+    "description": "My first portal",
+    "type": "drupal-profile",
+    "authors": [
+        {
+            "name": "Ashutosh Singh",
+            "email": "ashutoshsngh67@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
